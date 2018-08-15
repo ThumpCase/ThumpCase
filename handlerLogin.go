@@ -17,6 +17,7 @@ var adminEmails = map[string]bool {
 	//"dominicodbert@gmail.com": true, // Dominic Odbert
 	//"rex00x@yahoo.com": true,        // JP Odbert
 	"thumpcase@gmail.com": true,        // JP Odbert
+	"ThumpCase@gmail.com": true,        // JP Odbert
 }
 // ========== END: Define admin authorized emails in a map ========== ========== ========== ==========
 
